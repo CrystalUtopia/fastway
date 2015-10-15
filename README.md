@@ -1,6 +1,8 @@
 # fastway.class.php
 Database and class to determine if a suburb/address is serviceable by Fastway Couriers
 
+<p><b>DATABASE ACCURATE 15th October 2015</b>.</p>
+
 # usage
 ```php
 require_once("class.fastway.php");
